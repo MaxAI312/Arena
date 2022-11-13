@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f5e5dda483604540bb464c3471b44c2, type: 3}
+  m_Name: Ogr
+  m_EditorClassIdentifier: 
+  UnitTypeId: 0
+  Hp: 86
+  Damage: 30
+  EffectiveDistance: 2
+  Prefab: {fileID: 8402325801102231742, guid: 7cca415dfd485ac46a015c88a3d2d532, type: 3}
